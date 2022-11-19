@@ -77,6 +77,7 @@
 | [LeetCode](https://leetcode.com/) | :us: |
 | [LintCode](http://www.lintcode.com/) | :us: |
 | [OsProgamadores](https://osprogramadores.com/desafios/) | :brazil: |
+| [Programming Challenges](https://github.com/michelbernardods/programming-challengess) | :brazil: :us: |
 | [Programmr](http://www.programmr.com/) | :us: |
 | [Project Euler](https://projecteuler.net/) | :us: |
 | [Regex Crossword](https://regexcrossword.com/) | :us: |
